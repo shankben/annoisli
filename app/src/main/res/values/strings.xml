@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Annoisli</string>
+    <string name="subtitle">Destroy focus and ruin your productivity. Mix different sounds and create your perfect cacophony.</string>
+
+    <string name="app_public_key">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAibbTvKehempUNw0VbcqgxuRXbpe6tE1k6/dXmEI3Jru0tjL2462kI7mqiivKHbD2QoOqkg4UvT4blo8FK9OIPzJvd3ttAN1r1Cx1Jyo3T5lM1mG/7zLbpukhsEEFVuTFkOhpyTuFKECJS9DEABslnoiqArcvITv2hBM17wx7LUJrg61TmSlxWBvoeeZPkqsUxzVl7YK3+OvWMzNUCdP6mk8s/3JDBXqpop/eo2U1FJARx++D5eboRfSIDy+iwPr13tx+hJ28m/qTdjohhDbOnt6MyrHYgIOtyH8fF/hqq3fhiN4STqICgYlBSCx1PtWXc4Vx/Zv9lcYmQKxf+ji4FQIDAQAB</string>
+
+    <string name="button_random">Random</string>
+    <string name="button_counterprod">Counterproductivity</string>
+    <string name="button_misophonia">Misophonia</string>
+
+    <string name="premium_sku">premium</string>
+
+    <!-- AdMob -->
+    <string name="ad_mob_app_id">ca-app-pub-3243483370148193~7565603262</string>
+    <string name="ad_mob_ad_unit_id">ca-app-pub-3243483370148193/9042336468/</string>
+</resources>
